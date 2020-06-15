@@ -1,0 +1,6 @@
+
+*.dll
+*.lock
+DATAAPI/PET.DATAAPI.NOTICE/.vs/PET.DATAAPI.NOTICE/v16/.suo
+*.pdb
+*.cache

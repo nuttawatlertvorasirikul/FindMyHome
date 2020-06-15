@@ -1,0 +1,14 @@
+C:\git\PET\DATAAPI\PET.DATAAPI.NOTICE\src\PET.DATAAPI.NOTICE.CORE\bin\Debug\netcoreapp3.1\PET.DATAAPI.NOTICE.CORE.deps.json
+C:\git\PET\DATAAPI\PET.DATAAPI.NOTICE\src\PET.DATAAPI.NOTICE.CORE\bin\Debug\netcoreapp3.1\PET.DATAAPI.NOTICE.CORE.dll
+C:\git\PET\DATAAPI\PET.DATAAPI.NOTICE\src\PET.DATAAPI.NOTICE.CORE\bin\Debug\netcoreapp3.1\PET.DATAAPI.NOTICE.CORE.pdb
+C:\git\PET\DATAAPI\PET.DATAAPI.NOTICE\src\PET.DATAAPI.NOTICE.CORE\obj\Debug\netcoreapp3.1\PET.DATAAPI.NOTICE.CORE.AssemblyInfoInputs.cache
+C:\git\PET\DATAAPI\PET.DATAAPI.NOTICE\src\PET.DATAAPI.NOTICE.CORE\obj\Debug\netcoreapp3.1\PET.DATAAPI.NOTICE.CORE.AssemblyInfo.cs
+C:\git\PET\DATAAPI\PET.DATAAPI.NOTICE\src\PET.DATAAPI.NOTICE.CORE\obj\Debug\netcoreapp3.1\PET.DATAAPI.NOTICE.CORE.dll
+C:\git\PET\DATAAPI\PET.DATAAPI.NOTICE\src\PET.DATAAPI.NOTICE.CORE\obj\Debug\netcoreapp3.1\PET.DATAAPI.NOTICE.CORE.pdb
+C:\git\FindMyHome\https---github.com-nuttawatl-FindMyHome.git\DATAAPI\PET.DATAAPI.NOTICE\src\PET.DATAAPI.NOTICE.CORE\bin\Debug\netcoreapp3.1\PET.DATAAPI.NOTICE.CORE.deps.json
+C:\git\FindMyHome\https---github.com-nuttawatl-FindMyHome.git\DATAAPI\PET.DATAAPI.NOTICE\src\PET.DATAAPI.NOTICE.CORE\bin\Debug\netcoreapp3.1\PET.DATAAPI.NOTICE.CORE.dll
+C:\git\FindMyHome\https---github.com-nuttawatl-FindMyHome.git\DATAAPI\PET.DATAAPI.NOTICE\src\PET.DATAAPI.NOTICE.CORE\bin\Debug\netcoreapp3.1\PET.DATAAPI.NOTICE.CORE.pdb
+C:\git\FindMyHome\https---github.com-nuttawatl-FindMyHome.git\DATAAPI\PET.DATAAPI.NOTICE\src\PET.DATAAPI.NOTICE.CORE\obj\Debug\netcoreapp3.1\PET.DATAAPI.NOTICE.CORE.AssemblyInfoInputs.cache
+C:\git\FindMyHome\https---github.com-nuttawatl-FindMyHome.git\DATAAPI\PET.DATAAPI.NOTICE\src\PET.DATAAPI.NOTICE.CORE\obj\Debug\netcoreapp3.1\PET.DATAAPI.NOTICE.CORE.AssemblyInfo.cs
+C:\git\FindMyHome\https---github.com-nuttawatl-FindMyHome.git\DATAAPI\PET.DATAAPI.NOTICE\src\PET.DATAAPI.NOTICE.CORE\obj\Debug\netcoreapp3.1\PET.DATAAPI.NOTICE.CORE.dll
+C:\git\FindMyHome\https---github.com-nuttawatl-FindMyHome.git\DATAAPI\PET.DATAAPI.NOTICE\src\PET.DATAAPI.NOTICE.CORE\obj\Debug\netcoreapp3.1\PET.DATAAPI.NOTICE.CORE.pdb
